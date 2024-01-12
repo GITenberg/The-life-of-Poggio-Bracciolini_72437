@@ -1,0 +1,39 @@
+_repo: The-life-of-Poggio-Bracciolini_72437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shepherd, William
+    aliases:
+    - Shepherd, Dr. (William)
+    - Shepherd, Wm. (William)
+    - Shepherd, W. (William)
+    birthdate: 1768
+    deathdate: 1847
+    gutenberg_agent_id: '56666'
+    url: http://www.gutenberg.org/2009/agents/56666
+    wikipedia: https://en.wikipedia.org/wiki/William_Shepherd_(minister)
+description: ''
+edition_note: '[2nd edition]'
+gutenberg_issued: '2023-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72437'
+  lccn: 06038466
+language: en
+pgterms:marc904: https://archive.org/details/lifeofpoggiobrac00shepiala
+pgterms:marc905: 20210313101708shepherd
+pgterms:marc906: '1837'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLiverpool :$bHarris Brothers, $c1837.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1268-1492'
+- !lcsh 'Bracciolini, Poggio, 1380-1459'
+- !lcc 'DG'
+- GITenberg
+title: The life of Poggio Bracciolini
+url: http://www.gutenberg.org/ebooks/72437
